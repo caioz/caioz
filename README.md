@@ -1,16 +1,32 @@
-### Hi there 👋
+Olá, sou um entusiasta da análise de dados com um apego pela programação!
+Meu nome é Caio e sou um analista de dados apaixonado por transformar dados em insights acionáveis. Sou de Analise e Desenvolvimento de Sistemas e tenho uma sólida formação e análise de dados.
 
-<!--
-**caioz/caioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minhas Habilidades:
+Linguagens de Programação:
+Python 
+JavaScript 
+HTML 
+CSS 
 
-Here are some ideas to get you started:
+Bibliotecas e Frameworks:
+Pandas 
+NumPy 
+Scikit-learn 
+TensorFlow 
+React 
+Bootstrap 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ferramentas de Visualização:
+Power BI
+Matplotlib 
+Seaborn 
+D3.js 
+
+Bancos de Dados:
+MySQL 
+PostgreSQL 
+SQL Server
+
+Meu Objetivo:
+Estou constantemente buscando aprender e aprimorar minhas habilidades em análise de dados e programação para contribuir significativamente em projetos desafiadores e inovadores.
+
